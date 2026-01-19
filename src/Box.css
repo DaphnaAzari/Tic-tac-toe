@@ -1,0 +1,12 @@
+.Box {
+    width: 200px;
+    height: 200px;
+    background-color: #e9c46a;
+    border: 4px solid black;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #2a9d8f;
+    font-size: 5rem;
+}
